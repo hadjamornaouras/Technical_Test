@@ -1,2 +1,5 @@
-# Technical_Test
-Create a small web application
+## Available Scripts
+
+### `npm install`
+
+### `npm start`
